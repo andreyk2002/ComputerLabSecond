@@ -1,0 +1,2611 @@
+Number of image = 1
+  name of image:tests/0 (2).jpg
+  size of image:(468, 103)
+  color depth:RGB
+  image compression:None
+  dpi:(96, 96)
+
+Number of image = 2
+  name of image:tests/0.jpg
+  size of image:(474, 355)
+  color depth:RGB
+  image compression:None
+  dpi:(96, 96)
+
+Number of image = 3
+  name of image:tests/123.JPG
+  size of image:(1528, 2522)
+  color depth:RGB
+  image compression:None
+  dpi:(72, 72)
+
+Number of image = 4
+  name of image:tests/1280px-037_Stradale.jpg
+  size of image:(1280, 853)
+  color depth:RGB
+  image compression:None
+  dpi:(72, 72)
+
+Number of image = 5
+  name of image:tests/180px-037_Stradale.jpg
+  size of image:(180, 120)
+  color depth:RGB
+  image compression:None
+  dpi:(72, 72)
+
+Number of image = 6
+  name of image:tests/1976-Lancia-Stratos-Group-4-Coupé-1.jpg
+  size of image:(894, 534)
+  color depth:RGB
+  image compression:None
+  dpi:(300.0, 300.0)
+
+Number of image = 7
+  name of image:tests/1976-Lancia-Stratos-Group-4-Coupé-5.jpg
+  size of image:(894, 598)
+  color depth:RGB
+  image compression:None
+  dpi:(300.0, 300.0)
+
+Number of image = 8
+  name of image:tests/1976-Lancia-Stratos-Group-4-Coupé-8.jpg
+  size of image:(894, 599)
+  color depth:RGB
+  image compression:None
+  dpi:(300.0, 300.0)
+
+Number of image = 9
+  name of image:tests/2019-aston-martin-dbs-superleggera.jpg
+  size of image:(1920, 1080)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 10
+  name of image:tests/245534.jpg
+  size of image:(1600, 1067)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 11
+  name of image:tests/3914997-1969_porsche_917k_track_mh-004.jpg
+  size of image:(2500, 1290)
+  color depth:RGB
+  image compression:None
+  dpi:(100, 100)
+
+Number of image = 12
+  name of image:tests/51e8dd434950b10ff3d8992cc12c30771037dbf85254794e73287ad3944a_640.jpg
+  size of image:(640, 423)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 13
+  name of image:tests/52e2d74b4851a414f1dc8460962e33791c3ad6e04e507749712e79d2924ec2_640.jpg
+  size of image:(640, 426)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 14
+  name of image:tests/5798_4-auto_downl.jpg
+  size of image:(1024, 768)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 15
+  name of image:tests/57e5d4444d50ab14f1dc8460962e33791c3ad6e04e507440752f73dd944bc6_640.jpg
+  size of image:(640, 480)
+  color depth:RGB
+  image compression:None
+  dpi:(300, 300)
+
+Number of image = 16
+  name of image:tests/57e8d64b4355ae14f1dc8460962e33791c3ad6e04e50744172277fd1944bc3_640.jpg
+  size of image:(640, 360)
+  color depth:RGB
+  image compression:None
+  dpi:(300, 300)
+
+Number of image = 17
+  name of image:tests/5db46f18edfcfb3391af9bfd746f374cfec7f8bf.jpg
+  size of image:(1920, 1440)
+  color depth:RGB
+  image compression:None
+  dpi:(300, 300)
+
+Number of image = 18
+  name of image:tests/8171ca75a498e7715adfbe9bea29debe.jpg
+  size of image:(1024, 725)
+  color depth:RGB
+  image compression:None
+  dpi:(72, 72)
+
+Number of image = 19
+  name of image:tests/8b259daba90cf52f71192cb1f55ed5f5.jpg
+  size of image:(1600, 1200)
+  color depth:RGB
+  image compression:None
+  dpi:(96, 96)
+
+Number of image = 20
+  name of image:tests/AbathHead.jpeg
+  size of image:(795, 1000)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 21
+  name of image:tests/Albano.jpeg
+  size of image:(1000, 785)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 22
+  name of image:tests/Alfa_Romeo_Giulietta_Spider.jpg
+  size of image:(3488, 2302)
+  color depth:RGB
+  image compression:None
+  dpi:(72, 72)
+
+Number of image = 23
+  name of image:tests/angelina-yan-8JM4xXaO8dk-unsplash.jpg
+  size of image:(6720, 4480)
+  color depth:RGB
+  image compression:None
+  dpi:(72, 72)
+
+Number of image = 24
+  name of image:tests/angelina-yan-EEFX7mXtKAA-unsplash.jpg
+  size of image:(6720, 4480)
+  color depth:RGB
+  image compression:None
+  dpi:(72, 72)
+
+Number of image = 25
+  name of image:tests/annie-spratt-khIQvjniR1E-unsplash.jpg
+  size of image:(8272, 6200)
+  color depth:RGB
+  image compression:None
+  dpi:(72, 72)
+
+Number of image = 26
+  name of image:tests/annie-spratt-XUnnzE5ARVM-unsplash.jpg
+  size of image:(7943, 5953)
+  color depth:RGB
+  image compression:None
+  dpi:(72, 72)
+
+Number of image = 27
+  name of image:tests/apple.jpeg
+  size of image:(474, 474)
+  color depth:RGB
+  image compression:None
+  dpi:(0, 0)
+
+Number of image = 28
+  name of image:tests/apple.png
+  size of image:(16, 16)
+  color depth:RGB
+  image compression:None
+  dpi:(72.009, 72.009)
+
+Number of image = 29
+  name of image:tests/AppolonCathedr.jpeg
+  size of image:(1000, 769)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 30
+  name of image:tests/AutoPort.jpeg
+  size of image:(823, 983)
+  color depth:RGB
+  image compression:None
+  dpi:(72, 72)
+
+Number of image = 31
+  name of image:tests/Bagration.jpeg
+  size of image:(763, 1000)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 32
+  name of image:tests/Batoriy.jpeg
+  size of image:(1971, 1400)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 33
+  name of image:tests/Bek.jpeg
+  size of image:(789, 1000)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 34
+  name of image:tests/BoyCry.jpeg
+  size of image:(1000, 809)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 35
+  name of image:tests/BrotherPorter.jpeg
+  size of image:(777, 1000)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 36
+  name of image:tests/cache_memory_processor_3.jpg
+  size of image:(350, 273)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 37
+  name of image:tests/cc68600ef9950589f8a1fdb9c5b565fa.jpg
+  size of image:(2842, 1200)
+  color depth:RGB
+  image compression:None
+  dpi:(72, 72)
+
+Number of image = 38
+  name of image:tests/ConstantinopolWaters.jpeg
+  size of image:(1000, 793)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 39
+  name of image:tests/cpu-01.jpg
+  size of image:(704, 513)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 40
+  name of image:tests/DeCastroDeath.jpeg
+  size of image:(1000, 720)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 41
+  name of image:tests/Delphiyskaya.jpeg
+  size of image:(1000, 769)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 42
+  name of image:tests/Demidov.jpeg
+  size of image:(720, 1000)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 43
+  name of image:tests/Diana.jpeg
+  size of image:(1000, 923)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 44
+  name of image:tests/dot.png
+  size of image:(16, 16)
+  color depth:RGB
+  image compression:None
+  dpi:(72.009, 72.009)
+
+Number of image = 45
+  name of image:tests/download (1).jpg
+  size of image:(474, 296)
+  color depth:RGB
+  image compression:None
+  dpi:(0, 0)
+
+Number of image = 46
+  name of image:tests/download (10).jpg
+  size of image:(474, 632)
+  color depth:RGB
+  image compression:None
+  dpi:(0, 0)
+
+Number of image = 47
+  name of image:tests/download (11).jpg
+  size of image:(474, 355)
+  color depth:RGB
+  image compression:None
+  dpi:(0, 0)
+
+Number of image = 48
+  name of image:tests/download (2).jpg
+  size of image:(1920, 1080)
+  color depth:RGB
+  image compression:None
+  dpi:(1, 1)
+
+Number of image = 49
+  name of image:tests/download (3).jpg
+  size of image:(474, 266)
+  color depth:RGB
+  image compression:None
+  dpi:(0, 0)
+
+Number of image = 50
+  name of image:tests/download (4).jpg
+  size of image:(474, 315)
+  color depth:RGB
+  image compression:None
+  dpi:(0, 0)
+
+Number of image = 51
+  name of image:tests/download (5).jpg
+  size of image:(474, 266)
+  color depth:RGB
+  image compression:None
+  dpi:(0, 0)
+
+Number of image = 52
+  name of image:tests/download (6).jpg
+  size of image:(474, 315)
+  color depth:RGB
+  image compression:None
+  dpi:(0, 0)
+
+Number of image = 53
+  name of image:tests/download (7).jpg
+  size of image:(474, 316)
+  color depth:RGB
+  image compression:None
+  dpi:(0, 0)
+
+Number of image = 54
+  name of image:tests/download (8).jpg
+  size of image:(474, 717)
+  color depth:RGB
+  image compression:None
+  dpi:(0, 0)
+
+Number of image = 55
+  name of image:tests/download (9).jpg
+  size of image:(474, 355)
+  color depth:RGB
+  image compression:None
+  dpi:(0, 0)
+
+Number of image = 56
+  name of image:tests/download.jpg
+  size of image:(4550, 2559)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 57
+  name of image:tests/external-content.duckduckgo.jpg
+  size of image:(474, 266)
+  color depth:RGB
+  image compression:None
+  dpi:(0, 0)
+
+Number of image = 58
+  name of image:tests/f9a08b7b472dcd3336044999484f32ac5c342a21.jpg
+  size of image:(1920, 1440)
+  color depth:RGB
+  image compression:None
+  dpi:(300, 300)
+
+Number of image = 59
+  name of image:tests/ferrari-1644755040910-5940.jpg
+  size of image:(1920, 1200)
+  color depth:RGB
+  image compression:None
+  dpi:(96, 96)
+
+Number of image = 60
+  name of image:tests/Fig1.15(b) (1).jpg
+  size of image:(1184, 496)
+  color depth:L
+  image compression:None
+  dpi:(1, 1)
+
+Number of image = 61
+  name of image:tests/Fig1.15(b).jpg
+  size of image:(1184, 496)
+  color depth:L
+  image compression:None
+  dpi:(1, 1)
+
+Number of image = 62
+  name of image:tests/firstDating.jpeg
+  size of image:(677, 800)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 63
+  name of image:tests/GeneusIsk.jpeg
+  size of image:(944, 1000)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 64
+  name of image:tests/GrannySon.jpeg
+  size of image:(1000, 831)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 65
+  name of image:tests/GreeceSummer.jpeg
+  size of image:(1000, 768)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 66
+  name of image:tests/greg-ortega-Cl15aQf50nQ-unsplash.jpg
+  size of image:(2944, 4416)
+  color depth:RGB
+  image compression:None
+  dpi:(72, 72)
+
+Number of image = 67
+  name of image:tests/i.jpg
+  size of image:(1600, 1067)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 68
+  name of image:tests/Ignacius.jpeg
+  size of image:(3934, 4961)
+  color depth:RGB
+  image compression:None
+  dpi:(72, 72)
+
+Number of image = 69
+  name of image:tests/image-thumb.jpg
+  size of image:(2400, 1600)
+  color depth:RGB
+  image compression:None
+  dpi:(72, 72)
+
+Number of image = 70
+  name of image:tests/image2-1.jpg
+  size of image:(768, 105)
+  color depth:RGB
+  image compression:None
+  dpi:(96, 96)
+
+Number of image = 71
+  name of image:tests/images (1).jpg
+  size of image:(313, 161)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 72
+  name of image:tests/images.jpg
+  size of image:(299, 168)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 73
+  name of image:tests/IMG_20180419_151932.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 74
+  name of image:tests/IMG_20180420_203213.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 75
+  name of image:tests/IMG_20180428_101428.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 76
+  name of image:tests/IMG_20180429_104049.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 77
+  name of image:tests/IMG_20180429_104310.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 78
+  name of image:tests/IMG_20180502_195604.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 79
+  name of image:tests/IMG_20180503_194922.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 80
+  name of image:tests/IMG_20180509_124501.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 81
+  name of image:tests/IMG_20180509_131228.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 82
+  name of image:tests/IMG_20180509_141909.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 83
+  name of image:tests/IMG_20180509_143029.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 84
+  name of image:tests/IMG_20180511_200905.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 85
+  name of image:tests/IMG_20180526_195448.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 86
+  name of image:tests/IMG_20180530_162538.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 87
+  name of image:tests/IMG_20180602_150119.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 88
+  name of image:tests/IMG_20180602_202512.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 89
+  name of image:tests/IMG_20180603_165740.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 90
+  name of image:tests/IMG_20180626_143925.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 91
+  name of image:tests/IMG_20180703_170933.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 92
+  name of image:tests/IMG_20180708_104841.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 93
+  name of image:tests/IMG_20180708_105854.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 94
+  name of image:tests/IMG_20180709_130948.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 95
+  name of image:tests/IMG_20180711_201719.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 96
+  name of image:tests/IMG_20180720_202351.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 97
+  name of image:tests/IMG_20180724_112416.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 98
+  name of image:tests/IMG_20180729_120946.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 99
+  name of image:tests/IMG_20180730_123555.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 100
+  name of image:tests/IMG_20180730_170253.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 101
+  name of image:tests/IMG_20180801_194425.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 102
+  name of image:tests/IMG_20180806_130656.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 103
+  name of image:tests/IMG_20180806_130809.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 104
+  name of image:tests/IMG_20180809_112311.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 105
+  name of image:tests/IMG_20180816_150223.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 106
+  name of image:tests/IMG_20180823_164235.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 107
+  name of image:tests/IMG_20180823_164254.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 108
+  name of image:tests/IMG_20180823_164301.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 109
+  name of image:tests/IMG_20180823_164349.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 110
+  name of image:tests/IMG_20180823_170224.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 111
+  name of image:tests/IMG_20180823_205827.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 112
+  name of image:tests/IMG_20180823_205903.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 113
+  name of image:tests/IMG_20180823_205906.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 114
+  name of image:tests/IMG_20180826_125719.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 115
+  name of image:tests/IMG_20180826_125922.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 116
+  name of image:tests/IMG_20180901_111849.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 117
+  name of image:tests/IMG_20180901_112144.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 118
+  name of image:tests/IMG_20180909_091830.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 119
+  name of image:tests/IMG_20180915_113226.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 120
+  name of image:tests/IMG_20180915_113313.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 121
+  name of image:tests/IMG_20180923_100710.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 122
+  name of image:tests/IMG_20180923_101749.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 123
+  name of image:tests/IMG_20180923_103306.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 124
+  name of image:tests/IMG_20180928_203408.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 125
+  name of image:tests/IMG_20181005_105657.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 126
+  name of image:tests/IMG_20181005_132134.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 127
+  name of image:tests/IMG_20181005_132146.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 128
+  name of image:tests/IMG_20181005_132150.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 129
+  name of image:tests/IMG_20181010_192335.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 130
+  name of image:tests/IMG_20181010_192342.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 131
+  name of image:tests/IMG_20181015_094240.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 132
+  name of image:tests/IMG_20181015_094449.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 133
+  name of image:tests/IMG_20181025_115750.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 134
+  name of image:tests/IMG_20181201_183848.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 135
+  name of image:tests/IMG_20181201_183902.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 136
+  name of image:tests/IMG_20181201_211056.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 137
+  name of image:tests/IMG_20181202_142725.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 138
+  name of image:tests/IMG_20181202_162323.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 139
+  name of image:tests/IMG_20181207_115513.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 140
+  name of image:tests/IMG_20181207_115817.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 141
+  name of image:tests/IMG_20181207_115916.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 142
+  name of image:tests/IMG_20181207_120000.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 143
+  name of image:tests/IMG_20181207_120351.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 144
+  name of image:tests/IMG_20181207_120621.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 145
+  name of image:tests/IMG_20181207_120657.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 146
+  name of image:tests/IMG_20181207_120707.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 147
+  name of image:tests/IMG_20181207_120722.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 148
+  name of image:tests/IMG_20181207_120726.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 149
+  name of image:tests/IMG_20181207_121342.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 150
+  name of image:tests/IMG_20181207_121404.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 151
+  name of image:tests/IMG_20181207_121414.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 152
+  name of image:tests/IMG_20181207_121710.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 153
+  name of image:tests/IMG_20181207_121743.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 154
+  name of image:tests/IMG_20181207_121754.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 155
+  name of image:tests/IMG_20181207_121757.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 156
+  name of image:tests/IMG_20181207_121804.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 157
+  name of image:tests/IMG_20181207_121819.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 158
+  name of image:tests/IMG_20181207_121825.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 159
+  name of image:tests/IMG_20181207_121828.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 160
+  name of image:tests/IMG_20181207_121839.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 161
+  name of image:tests/IMG_20181207_121907.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 162
+  name of image:tests/IMG_20181207_122040.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 163
+  name of image:tests/IMG_20181207_173151.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 164
+  name of image:tests/IMG_20181215_165228.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 165
+  name of image:tests/IMG_20181215_173054.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 166
+  name of image:tests/IMG_20181215_173142.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 167
+  name of image:tests/IMG_20181215_195104.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 168
+  name of image:tests/IMG_20181215_195205.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 169
+  name of image:tests/IMG_20181222_130716.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 170
+  name of image:tests/IMG_20181222_144101.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 171
+  name of image:tests/IMG_20181222_144215.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 172
+  name of image:tests/IMG_20181224_111548.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 173
+  name of image:tests/IMG_20181224_112242.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 174
+  name of image:tests/IMG_20181230_174650.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 175
+  name of image:tests/IMG_20181230_174853.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 176
+  name of image:tests/IMG_20181231_131643.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 177
+  name of image:tests/IMG_20181231_212451.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 178
+  name of image:tests/IMG_20181231_212455.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 179
+  name of image:tests/IMG_20181231_212834.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 180
+  name of image:tests/IMG_20190105_141921.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 181
+  name of image:tests/IMG_20190107_112225.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 182
+  name of image:tests/IMG_20190111_120425.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 183
+  name of image:tests/IMG_20190111_133417.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 184
+  name of image:tests/IMG_20190501_101255.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 185
+  name of image:tests/IMG_20190501_101304.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 186
+  name of image:tests/IMG_20190506_103432.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 187
+  name of image:tests/IMG_20190601_203102.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 188
+  name of image:tests/IMG_20190601_203136.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 189
+  name of image:tests/IMG_20190601_203200.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 190
+  name of image:tests/IMG_20190601_203220.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 191
+  name of image:tests/IMG_20190608_191749.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 192
+  name of image:tests/IMG_20190608_191801.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 193
+  name of image:tests/IMG_20190608_192331.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 194
+  name of image:tests/IMG_20190608_194454.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 195
+  name of image:tests/IMG_20190608_202734.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 196
+  name of image:tests/IMG_20190608_204614.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 197
+  name of image:tests/IMG_20190608_222642.jpg
+  size of image:(1944, 2592)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 198
+  name of image:tests/IMG_20190608_222809.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 199
+  name of image:tests/IMG_20190608_222900.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 200
+  name of image:tests/IMG_20190608_222902.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 201
+  name of image:tests/IMG_20190609_091138.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 202
+  name of image:tests/IMG_20190609_091304.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 203
+  name of image:tests/IMG_20190620_090339.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 204
+  name of image:tests/IMG_20190626_181327.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 205
+  name of image:tests/IMG_20190626_181335.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 206
+  name of image:tests/IMG_20190628_102918.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 207
+  name of image:tests/IMG_20190628_191408.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 208
+  name of image:tests/IMG_20190702_182437.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 209
+  name of image:tests/IMG_20190704_140902.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 210
+  name of image:tests/IMG_20190707_191616.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 211
+  name of image:tests/IMG_20190707_192313.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 212
+  name of image:tests/IMG_20190714_170859.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 213
+  name of image:tests/IMG_20190720_181034.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 214
+  name of image:tests/IMG_20190721_200155.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 215
+  name of image:tests/IMG_20190801_164738.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 216
+  name of image:tests/IMG_20190804_181020.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 217
+  name of image:tests/IMG_20190806_113200.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 218
+  name of image:tests/IMG_20190806_113255.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 219
+  name of image:tests/IMG_20190814_112223.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 220
+  name of image:tests/IMG_20190814_113935.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 221
+  name of image:tests/IMG_20190816_132452.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 222
+  name of image:tests/IMG_20190816_165036.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 223
+  name of image:tests/IMG_20190816_170258.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 224
+  name of image:tests/IMG_20190817_144838.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 225
+  name of image:tests/IMG_20190818_201434.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 226
+  name of image:tests/IMG_20190818_201527.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 227
+  name of image:tests/IMG_20190818_201532.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 228
+  name of image:tests/IMG_20190818_201652.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 229
+  name of image:tests/IMG_20190818_201758.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 230
+  name of image:tests/IMG_20190820_101413.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 231
+  name of image:tests/IMG_20190820_104055.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 232
+  name of image:tests/IMG_20190824_161030.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 233
+  name of image:tests/IMG_20190824_161117.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 234
+  name of image:tests/IMG_20190825_121250.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 235
+  name of image:tests/IMG_20190826_184439.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 236
+  name of image:tests/IMG_20190826_184643.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 237
+  name of image:tests/IMG_20190826_194436.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 238
+  name of image:tests/IMG_20190826_200349.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 239
+  name of image:tests/IMG_20190907_192837.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 240
+  name of image:tests/IMG_20190907_192840.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 241
+  name of image:tests/IMG_20190917_163023.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 242
+  name of image:tests/IMG_20190917_163033.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 243
+  name of image:tests/IMG_20190917_163036.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 244
+  name of image:tests/IMG_20190919_154741.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 245
+  name of image:tests/IMG_20190919_154742.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 246
+  name of image:tests/IMG_20190921_170150.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 247
+  name of image:tests/IMG_20190921_170300.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 248
+  name of image:tests/IMG_20190922_110554.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 249
+  name of image:tests/IMG_20190922_112324.jpg
+  size of image:(1944, 2592)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 250
+  name of image:tests/IMG_20190928_061012.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 251
+  name of image:tests/IMG_20190928_061133.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 252
+  name of image:tests/IMG_20190928_061425.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 253
+  name of image:tests/IMG_20190928_063205.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 254
+  name of image:tests/IMG_20190929_075008_HHT.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 255
+  name of image:tests/IMG_20190929_075024.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 256
+  name of image:tests/IMG_20191003_192616.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 257
+  name of image:tests/IMG_20191003_192622.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 258
+  name of image:tests/IMG_20191005_170116.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 259
+  name of image:tests/IMG_20191005_170130.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 260
+  name of image:tests/IMG_20191005_170158.jpg
+  size of image:(2592, 1944)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 261
+  name of image:tests/IMG_20191005_192916.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 262
+  name of image:tests/IMG_20191005_192918.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 263
+  name of image:tests/IMG_20191005_192927.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 264
+  name of image:tests/IMG_20191005_192949.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 265
+  name of image:tests/IMG_20191005_192952.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 266
+  name of image:tests/IMG_20191005_193033.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 267
+  name of image:tests/IMG_20191013_110104.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 268
+  name of image:tests/IMG_20191014_083130.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 269
+  name of image:tests/IMG_20191014_090835.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 270
+  name of image:tests/IMG_20191014_092454.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 271
+  name of image:tests/IMG_20191014_092527.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 272
+  name of image:tests/IMG_20191018_171152.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 273
+  name of image:tests/IMG_20191107_123323.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 274
+  name of image:tests/IMG_20191107_140447.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 275
+  name of image:tests/IMG_20191107_140828.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 276
+  name of image:tests/IMG_20191107_141514.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 277
+  name of image:tests/IMG_20191107_141837.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 278
+  name of image:tests/IMG_20191107_143009.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 279
+  name of image:tests/IMG_20191107_143107.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 280
+  name of image:tests/IMG_20191107_145436.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 281
+  name of image:tests/IMG_20191107_145748.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 282
+  name of image:tests/IMG_20191107_151404.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 283
+  name of image:tests/IMG_20191107_151700.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 284
+  name of image:tests/IMG_20191123_134441.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 285
+  name of image:tests/IMG_20191123_134500.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 286
+  name of image:tests/IMG_20191129_105205.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 287
+  name of image:tests/IMG_20191207_165920.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 288
+  name of image:tests/IMG_20191212_100202.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 289
+  name of image:tests/IMG_20191217_130922.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 290
+  name of image:tests/IMG_20191217_130948.jpg
+  size of image:(3120, 4160)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 291
+  name of image:tests/IMG_20191217_172211.jpg
+  size of image:(4160, 3120)
+  color depth:RGB
+  image compression:None
+  dpi:(72.0, 72.0)
+
+Number of image = 292
+  name of image:tests/InTheForest.jpeg
+  size of image:(980, 1000)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 293
+  name of image:tests/ItalianMorning.jpeg
+  size of image:(873, 1000)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 294
+  name of image:tests/ItalianP.jpeg
+  size of image:(839, 1000)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 295
+  name of image:tests/ItaliansIspoved.jpeg
+  size of image:(723, 1000)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 296
+  name of image:tests/james-thompson-a-JP197Yy4U-unsplash.jpg
+  size of image:(3739, 5608)
+  color depth:RGB
+  image compression:None
+  dpi:(72, 72)
+
+Number of image = 297
+  name of image:tests/katharina-bill-jmfNVDkxbm8-unsplash.jpg
+  size of image:(4160, 6240)
+  color depth:RGB
+  image compression:None
+  dpi:(72, 72)
+
+Number of image = 298
+  name of image:tests/KnVolkonskaya.jpeg
+  size of image:(809, 1000)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 299
+  name of image:tests/Krulov.jpeg
+  size of image:(785, 945)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 300
+  name of image:tests/Kukolnik.jpeg
+  size of image:(1000, 1457)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 301
+  name of image:tests/LanciaRally037.jpg
+  size of image:(3214, 2031)
+  color depth:RGB
+  image compression:None
+  dpi:(72, 72)
+
+Number of image = 302
+  name of image:tests/Lancia_Delta_Integrale_-_Flickr_-_exfordy_(1).jpg
+  size of image:(3109, 2205)
+  color depth:RGB
+  image compression:None
+  dpi:(72, 72)
+
+Number of image = 303
+  name of image:tests/Lancia_Delta_S4_005.JPG
+  size of image:(1280, 720)
+  color depth:RGB
+  image compression:None
+  dpi:(100, 100)
+
+Number of image = 304
+  name of image:tests/Lancia_Motor_Club_AGM_2011_DSC_4294_-_Flickr_-_tonylanciabeta.jpg
+  size of image:(1200, 797)
+  color depth:RGB
+  image compression:None
+  dpi:(300, 300)
+
+Number of image = 305
+  name of image:tests/lute-kqQjVr-TUBo-unsplash.jpg
+  size of image:(4000, 6000)
+  color depth:RGB
+  image compression:None
+  dpi:(72, 72)
+
+Number of image = 306
+  name of image:tests/maxresdefault.jpg
+  size of image:(1280, 720)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 307
+  name of image:tests/MichelangeloLanci.jpeg
+  size of image:(1400, 1770)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 308
+  name of image:tests/msl.jpg
+  size of image:(500, 487)
+  color depth:RGB
+  image compression:None
+  dpi:(96, 96)
+
+Number of image = 309
+  name of image:tests/msl1.jpg
+  size of image:(500, 732)
+  color depth:RGB
+  image compression:None
+  dpi:(96, 96)
+
+Number of image = 310
+  name of image:tests/Mussars.jpeg
+  size of image:(1400, 1853)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 311
+  name of image:tests/Narciss.jpeg
+  size of image:(1000, 748)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 312
+  name of image:tests/NearTheDyb.jpeg
+  size of image:(1000, 810)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 313
+  name of image:tests/Nikolaevna.jpeg
+  size of image:(882, 1000)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 314
+  name of image:tests/Odalistic.jpeg
+  size of image:(775, 1000)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 315
+  name of image:tests/Pavlovna.jpeg
+  size of image:(1400, 1991)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 316
+  name of image:tests/Petrova.jpeg
+  size of image:(795, 1000)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 317
+  name of image:tests/Petrovski.jpeg
+  size of image:(1300, 2100)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 318
+  name of image:tests/PetrovskiOnCapitel.jpeg
+  size of image:(1000, 645)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 319
+  name of image:tests/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg
+  size of image:(1280, 1920)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 320
+  name of image:tests/Plafon.jpeg
+  size of image:(982, 1000)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 321
+  name of image:tests/pompei.jpeg
+  size of image:(800, 558)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 322
+  name of image:tests/porsche_rsr.jpg
+  size of image:(1088, 1080)
+  color depth:RGB
+  image compression:None
+  dpi:(72, 72)
+
+Number of image = 323
+  name of image:tests/RockAndMoon.jpeg
+  size of image:(1000, 737)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 324
+  name of image:tests/RomeDemonstration.jpeg
+  size of image:(1000, 704)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 325
+  name of image:tests/Saltukova.jpeg
+  size of image:(1044, 1464)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 326
+  name of image:tests/Samoilova.jpeg
+  size of image:(1400, 2002)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 327
+  name of image:tests/sara-groblechner-c6Z4KeYotY0-unsplash.jpg
+  size of image:(4955, 3303)
+  color depth:RGB
+  image compression:None
+  dpi:(72, 72)
+
+Number of image = 328
+  name of image:tests/Screenshot (128).png
+  size of image:(1920, 1080)
+  color depth:RGBA
+  image compression:None
+  dpi:None
+
+Number of image = 329
+  name of image:tests/Screenshot (136).png
+  size of image:(1920, 1080)
+  color depth:RGBA
+  image compression:None
+  dpi:None
+
+Number of image = 330
+  name of image:tests/Screenshot (145).png
+  size of image:(1920, 1080)
+  color depth:RGBA
+  image compression:None
+  dpi:None
+
+Number of image = 331
+  name of image:tests/Screenshot (146).png
+  size of image:(1920, 1080)
+  color depth:RGBA
+  image compression:None
+  dpi:None
+
+Number of image = 332
+  name of image:tests/Screenshot (147).png
+  size of image:(1920, 1080)
+  color depth:RGBA
+  image compression:None
+  dpi:None
+
+Number of image = 333
+  name of image:tests/Screenshot (148).png
+  size of image:(1920, 1080)
+  color depth:RGBA
+  image compression:None
+  dpi:None
+
+Number of image = 334
+  name of image:tests/Screenshot (149).png
+  size of image:(1920, 1080)
+  color depth:RGBA
+  image compression:None
+  dpi:None
+
+Number of image = 335
+  name of image:tests/Screenshot (167).png
+  size of image:(1920, 1080)
+  color depth:RGBA
+  image compression:None
+  dpi:None
+
+Number of image = 336
+  name of image:tests/Screenshot (168).png
+  size of image:(561, 510)
+  color depth:RGBA
+  image compression:None
+  dpi:(95.9866, 95.9866)
+
+Number of image = 337
+  name of image:tests/Screenshot (169).png
+  size of image:(1920, 1080)
+  color depth:RGBA
+  image compression:None
+  dpi:None
+
+Number of image = 338
+  name of image:tests/Screenshot (170).png
+  size of image:(1920, 1080)
+  color depth:RGBA
+  image compression:None
+  dpi:None
+
+Number of image = 339
+  name of image:tests/Screenshot (171).png
+  size of image:(1920, 1080)
+  color depth:RGBA
+  image compression:None
+  dpi:None
+
+Number of image = 340
+  name of image:tests/Screenshot (172).png
+  size of image:(510, 363)
+  color depth:RGBA
+  image compression:None
+  dpi:(95.9866, 95.9866)
+
+Number of image = 341
+  name of image:tests/Screenshot (173).png
+  size of image:(1920, 1080)
+  color depth:RGBA
+  image compression:None
+  dpi:None
+
+Number of image = 342
+  name of image:tests/Screenshot (174).png
+  size of image:(1920, 1080)
+  color depth:RGBA
+  image compression:None
+  dpi:None
+
+Number of image = 343
+  name of image:tests/Screenshot (175).png
+  size of image:(2560, 1080)
+  color depth:RGBA
+  image compression:None
+  dpi:None
+
+Number of image = 344
+  name of image:tests/Screenshot (176).png
+  size of image:(2560, 1080)
+  color depth:RGBA
+  image compression:None
+  dpi:None
+
+Number of image = 345
+  name of image:tests/Screenshot (446).png
+  size of image:(429, 282)
+  color depth:RGBA
+  image compression:None
+  dpi:(95.9866, 95.9866)
+
+Number of image = 346
+  name of image:tests/shazmyn-ali-9iX5iQUjlBU-unsplash.jpg
+  size of image:(5318, 3561)
+  color depth:RGB
+  image compression:None
+  dpi:(72, 72)
+
+Number of image = 347
+  name of image:tests/shubham-dhage--IT4qmpuYdo-unsplash.jpg
+  size of image:(4320, 5400)
+  color depth:RGB
+  image compression:None
+  dpi:(72, 72)
+
+Number of image = 348
+  name of image:tests/Shuvalova.jpeg
+  size of image:(2647, 3200)
+  color depth:RGB
+  image compression:None
+  dpi:(72, 72)
+
+Number of image = 349
+  name of image:tests/Sisters.jpeg
+  size of image:(2403, 3188)
+  color depth:RGB
+  image compression:None
+  dpi:(72, 72)
+
+Number of image = 350
+  name of image:tests/SleepingUnona.jpeg
+  size of image:(1000, 669)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 351
+  name of image:tests/Smirnova.jpeg
+  size of image:(779, 1000)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 352
+  name of image:tests/sm_full.jpg
+  size of image:(786, 446)
+  color depth:RGB
+  image compression:None
+  dpi:(96, 96)
+
+Number of image = 353
+  name of image:tests/StRoccaVillage.jpeg
+  size of image:(1000, 768)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 354
+  name of image:tests/StSon.jpeg
+  size of image:(1000, 838)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 355
+  name of image:tests/Tittoni.jpeg
+  size of image:(808, 1000)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 356
+  name of image:tests/Turkish.jpeg
+  size of image:(1000, 872)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 357
+  name of image:tests/Vechernya.jpeg
+  size of image:(787, 1000)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 358
+  name of image:tests/Vezyviy.jpeg
+  size of image:(1000, 716)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 359
+  name of image:tests/VezyviyExpedition.jpeg
+  size of image:(1000, 665)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 360
+  name of image:tests/vinograd.jpeg
+  size of image:(825, 1000)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 361
+  name of image:tests/VinoHoliday.jpeg
+  size of image:(1000, 748)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 362
+  name of image:tests/Virsavia.jpeg
+  size of image:(1400, 1980)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 363
+  name of image:tests/VolkonskieChilds.jpeg
+  size of image:(1200, 1453)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 364
+  name of image:tests/vsadnica.jpeg
+  size of image:(2827, 4000)
+  color depth:RGB
+  image compression:None
+  dpi:(72, 72)
+
+Number of image = 365
+  name of image:tests/Walking.jpeg
+  size of image:(1000, 672)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 366
+  name of image:tests/WatingForChild.jpeg
+  size of image:(1000, 852)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 367
+  name of image:tests/WindowKiss.jpeg
+  size of image:(700, 800)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 368
+  name of image:tests/y3KRQQXkeii2h414XTInUHjZNje.jpg
+  size of image:(1280, 1920)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 369
+  name of image:tests/YoungSon.jpeg
+  size of image:(885, 633)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 370
+  name of image:tests/_m8WT0_eyPs.jpg
+  size of image:(1620, 2160)
+  color depth:RGB
+  image compression:None
+  dpi:(72, 72)
+
+Number of image = 371
+  name of image:tests/володя.jpg
+  size of image:(469, 697)
+  color depth:RGB
+  image compression:None
+  dpi:None
+
+Number of image = 372
+  name of image:tests/Снимок экрана (165).png
+  size of image:(1920, 1080)
+  color depth:RGBA
+  image compression:None
+  dpi:None
+
+Number of image = 373
+  name of image:tests/Снимок экрана (34).png
+  size of image:(1920, 1080)
+  color depth:RGBA
+  image compression:None
+  dpi:None
+
